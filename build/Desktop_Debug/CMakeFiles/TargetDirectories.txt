@@ -1,0 +1,9 @@
+/run/media/jaste/sitraka/GestionSalles/build/Desktop_Debug/CMakeFiles/GestionSalles.dir
+/run/media/jaste/sitraka/GestionSalles/build/Desktop_Debug/CMakeFiles/edit_cache.dir
+/run/media/jaste/sitraka/GestionSalles/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
+/run/media/jaste/sitraka/GestionSalles/build/Desktop_Debug/CMakeFiles/list_install_components.dir
+/run/media/jaste/sitraka/GestionSalles/build/Desktop_Debug/CMakeFiles/install.dir
+/run/media/jaste/sitraka/GestionSalles/build/Desktop_Debug/CMakeFiles/install/local.dir
+/run/media/jaste/sitraka/GestionSalles/build/Desktop_Debug/CMakeFiles/install/strip.dir
+/run/media/jaste/sitraka/GestionSalles/build/Desktop_Debug/CMakeFiles/GestionSalles_autogen_timestamp_deps.dir
+/run/media/jaste/sitraka/GestionSalles/build/Desktop_Debug/CMakeFiles/GestionSalles_autogen.dir

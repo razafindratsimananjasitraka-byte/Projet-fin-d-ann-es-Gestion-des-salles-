@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/GestionSalles.dir/link.d"
+  "CMakeFiles/GestionSalles_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/GestionSalles_autogen.dir/ParseCache.txt"
+  "GestionSalles_autogen"
+  "CMakeFiles/GestionSalles.dir/GestionSalles_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/GestionSalles.dir/GestionSalles_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/basepage.cpp.o"
+  "CMakeFiles/GestionSalles.dir/basepage.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/database.cpp.o"
+  "CMakeFiles/GestionSalles.dir/database.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/enseignantpage.cpp.o"
+  "CMakeFiles/GestionSalles.dir/enseignantpage.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/formdialog.cpp.o"
+  "CMakeFiles/GestionSalles.dir/formdialog.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/homepage.cpp.o"
+  "CMakeFiles/GestionSalles.dir/homepage.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/main.cpp.o"
+  "CMakeFiles/GestionSalles.dir/main.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/mainwindow.cpp.o"
+  "CMakeFiles/GestionSalles.dir/mainwindow.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/matierepage.cpp.o"
+  "CMakeFiles/GestionSalles.dir/matierepage.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/planningpage.cpp.o"
+  "CMakeFiles/GestionSalles.dir/planningpage.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/reservationpage.cpp.o"
+  "CMakeFiles/GestionSalles.dir/reservationpage.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/sallepage.cpp.o"
+  "CMakeFiles/GestionSalles.dir/sallepage.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/theme.cpp.o"
+  "CMakeFiles/GestionSalles.dir/theme.cpp.o.d"
+  "CMakeFiles/GestionSalles.dir/widgets.cpp.o"
+  "CMakeFiles/GestionSalles.dir/widgets.cpp.o.d"
+  "GestionSalles"
+  "GestionSalles.pdb"
+  "GestionSalles_autogen/mocs_compilation.cpp"
+  "GestionSalles_autogen/timestamp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/GestionSalles.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
